@@ -2,7 +2,7 @@
 ## Overview
 This project includes source codes and examples of VSCNet. 
 
-For quick start of using VSCNet, we provide runnable testing examples, including [pretrained models](./model_save/resnet18), a [sub-hierarchy](./hierarchy), and several [samples](./data_food101_demo) from the Ingredient-101 tesing set.
+For quick start of using VSCNet, we provide runnable testing examples, including pretrained models(in ./model_save), a sub-hierarchy(in ./hierarchy), and several samples(in ./data_food101_demo) from testing set of Ingredient-101.
 ## Environment
 * Pytorch >= 1.10.2
 * Python >= 3.6.5
